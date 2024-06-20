@@ -17,6 +17,7 @@ TRABAJO GRUPAL SOBRE YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
 - [KPIs](#kpis)
 - [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [Recomendaciones](#recomendaciones)
+- [Staff del proyecto](#Staff)
 # Introducción:
 En el dinámico mundo del marketing digital, la opinión de los usuarios ha emergido como un recurso invaluable. Plataformas de reseñas como Yelp y Google Maps han democratizado la voz del consumidor, permitiendo que sus experiencias sean compartidas y consultadas a gran escala. Estas reseñas no solo influyen en las decisiones de otros consumidores, sino que también proporcionan a las empresas una fuente rica y directa de feedback sobre sus servicios y productos. Yelp, una plataforma consolidada en el mercado, permite a los usuarios evaluar una amplia gama de negocios, desde restaurantes hasta hoteles, basándose en sus experiencias personales. De manera similar, Google Maps integra una robusta función de reseñas que ayuda a los usuarios a tomar decisiones informadas sobre dónde comer, comprar o alojarse.
 
@@ -133,4 +134,10 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 
 # Recomendaciones:
 
+# Staff:
 
+- Pierotti Braulio (Data Analist) Proyect Leader.
+- Leandro Funes (Data Scientist)
+- Acuña Roman (Data Engineer)
+- Mamani Aldo Federico (Data Engineer)
+- Quiñones Arnaldo Pedro (Data Analist)
