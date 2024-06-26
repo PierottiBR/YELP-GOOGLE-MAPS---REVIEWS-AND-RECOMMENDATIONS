@@ -128,6 +128,20 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 
 ## KPIs
 
+1. KPI DE CRECIMIENTO:
+Definición: Mide el crecimiento en la cantidad de reseñas recibidas por los restaurantes en un periodo determinado.
+Fórmula: (Número de reseñas en el periodo actual - Número de reseñas en el periodo anterior) / Número de reseñas en el periodo anterior.
+Objetivo: Evaluar el crecimiento en popularidad y visibilidad de los restaurantes a lo largo del tiempo con una esperanza de crecimiento del 8%. Un índice de crecimiento positivo indica un aumento en la atención de los clientes.
+
+2. KPI DE APROBACION:
+Definición: Mide el sentimiento general (positivo, negativo o neutral) de las reseñas de los usuarios.
+Fórmula: Media ponderada de las calificaciones y sentimiento promedio de las reseñas.
+Objetivo: Identificar el sentimiento general hacia los restaurantes y detectar áreas de mejora, con una esperanza positiva anual del 10% . Un sentimiento positivo indica satisfacción del cliente, mientras que un sentimiento negativo sugiere problemas a abordar.
+
+3. KPI PRECIO:
+Definición: Evaluación de la relación entre el precio promedio de los platos y la satisfacción del cliente (calificación y sentimiento de las reseñas).
+Cálculo: Relación entre el precio promedio de los platos (extraído de menús o reportes) y la calificación promedio de las reseñas. Se puede utilizar una métrica como (Precio Promedio / Calificación Promedio) para evaluar esta relación.
+Objetivo: Determinar cómo el precio impacta la percepción de los clientes sobre la calidad del servicio y la comida. Este KPI ayuda a identificar si los precios son percibidos como justos y adecuados por los clientes.
 
 
 ## Análisis y Conclusiones:
