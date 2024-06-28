@@ -1,6 +1,6 @@
 ###### ![](https://github.com/arnaldoquinones/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS/blob/main/MULTIMEDIA/data_devs_logo.jpg?raw=true)
 
-### YELP & GOOGLE-MAPS
+### YELP &  GOOGLE-MAPS
 
 ### REVIEWS-AND-RECOMMENDATIONS
 
