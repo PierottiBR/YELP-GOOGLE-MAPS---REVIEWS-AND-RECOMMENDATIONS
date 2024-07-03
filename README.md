@@ -56,6 +56,7 @@ El proyecto se desglosa en varias fases para abordar el análisis del mercado de
 
 # Pipeline y Stack Tecnológico
 
+
 Para implementar el proyecto, se utilizarán las siguientes tecnologías y herramientas:
 
 - **Python**: Herramientas y bibliotecas como Pandas, Numpy, Matplotlib y Seaborn serán utilizadas para la manipulación, análisis y visualización de datos.
@@ -149,6 +150,8 @@ Objetivo: Determinar cómo el precio impacta la percepción de los clientes sobr
 
 
 ## Recomendaciones:
+<p align="center">
+<img src="https://github.com/PierottiBR/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS/blob/main/MULTIMEDIA/ML.jpg" alt="modelo ML" width="600" height="400">
 
 ## Staff:
 
