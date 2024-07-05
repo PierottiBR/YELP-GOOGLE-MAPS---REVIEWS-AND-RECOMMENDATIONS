@@ -146,7 +146,7 @@ Objetivo: Determinar cómo el precio impacta la percepción de los clientes sobr
 
 LINK DE ACCESO AL DASHBOARD:
 
-https://app.powerbi.com/links/mQ6Z46e5t5?ctid=4c818f79-ab84-4552-9b7c-2fe715b0d0d5&pbi_source=linkShare
+[Dashboard](https://app.powerbi.com/links/mQ6Z46e5t5?ctid=4c818f79-ab84-4552-9b7c-2fe715b0d0d5&pbi_source=linkShare)
 
 ## Análisis y Conclusiones:
 
