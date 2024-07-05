@@ -127,7 +127,7 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 - [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 
-## KPIs
+## KPIs y Dashboard.
 
 1. KPI DE CRECIMIENTO:
 Definición: Mide el crecimiento en la cantidad de reseñas recibidas por los restaurantes en un periodo determinado.
@@ -144,6 +144,9 @@ Definición: Evaluación de la relación entre el precio promedio de los platos 
 Cálculo: Relación entre el precio promedio de los platos (extraído de menús o reportes) y la calificación promedio de las reseñas. Se puede utilizar una métrica como (Precio Promedio / Calificación Promedio) para evaluar esta relación.
 Objetivo: Determinar cómo el precio impacta la percepción de los clientes sobre la calidad del servicio y la comida. Este KPI ayuda a identificar si los precios son percibidos como justos y adecuados por los clientes.
 
+LINK DE ACCESO AL DASHBOARD:
+
+https://discord.com/channels/1250585263671873537/1250585264703934550/1258792207197011989
 
 ## Análisis y Conclusiones:
 
