@@ -146,7 +146,7 @@ Objetivo: Determinar cómo el precio impacta la percepción de los clientes sobr
 
 LINK DE ACCESO AL DASHBOARD:
 
-https://discord.com/channels/1250585263671873537/1250585264703934550/1258792207197011989
+https://app.powerbi.com/links/mQ6Z46e5t5?ctid=4c818f79-ab84-4552-9b7c-2fe715b0d0d5&pbi_source=linkShare
 
 ## Análisis y Conclusiones:
 
@@ -158,8 +158,7 @@ https://discord.com/channels/1250585263671873537/1250585264703934550/12587922071
 
 ## Staff:
 
-- Pierotti Braulio (Data Analist) Proyect Leader.
-- Leandro Funes (Data Scientist)
+- Pierotti Braulio (Data science) Proyect Leader.
 - Acuña Roman (Data Engineer)
 - Mamani Aldo Federico (Data Engineer)
 - Quiñones Arnaldo Pedro (Data Analist)
