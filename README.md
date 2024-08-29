@@ -161,4 +161,4 @@ LINK DE ACCESO AL DASHBOARD:
 - Pierotti Braulio (Data science) Proyect Leader.
 - Acuña Roman (Data Engineer)
 - Mamani Aldo Federico (Data Engineer)
-- Quiñones Arnaldo Pedro (Data Analist)
+- Quiñones Arnaldo Pedro (Data Analist & science)
