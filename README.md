@@ -39,6 +39,8 @@ Para los restaurantes, estas reseñas representan una mina de oro de informació
 
 Además, estas plataformas no solo afectan a los consumidores locales, sino que también influyen en los turistas que buscan experiencias gastronómicas en nuevas ciudades. Las decisiones de dónde comer durante un viaje a menudo se basan en las reseñas encontradas en Yelp y Google Maps, lo que significa que un restaurante bien valorado puede atraer a una clientela diversa y aumentar significativamente su visibilidad y reputación.
 
+![1](https://github.com/PierottiBR/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS/blob/main/multimedia/dashboard_I.png?raw=true)
+
 
 ## Desarrollo del Proyecto
 
