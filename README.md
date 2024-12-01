@@ -67,6 +67,8 @@ Para implementar el proyecto, se utilizarán las siguientes tecnologías y herra
 - **Visualización**: Power BI se utilizará para la creación de tableros interactivos. Streamlit será utilizado para crear aplicaciones web de visualización de datos personalizadas y dinámicas.
 - **Modelos de Machine Learning**: Se utilizarán Scikit-Learn y TensorFlow para el desarrollo y entrenamiento de modelos de machine learning que ayudarán a predecir tendencias y hacer recomendaciones.
 
+![1](https://github.com/PierottiBR/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS/blob/main/multimedia/dashboard_II.png?raw=true)
+
 # Diagrama de Gantt
 
 El diagrama de Gantt para el proyecto incluirá las siguientes fases y tareas:
